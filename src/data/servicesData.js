@@ -22,52 +22,55 @@ export const servicesData = [
     //     title: 'Email Marketing',
     //     icon: <AiOutlineMail />
     // },
+    {
+        id: 4,
+        title: 'Web Developement',
+        icon: <BsCodeSlash />
+    },
+    {
+        id: 5,
+        title: 'Audio Transcription',
+        icon: <AiFillAudio />
+    },
+    {
+        id: 6,
+        title: 'Data Entry', 
+        icon: <BsClipboardData />
+    },
+    {
+        id: 7,
+        title: 'Internet Research',
+        icon: <FaInternetExplorer />
+    },
     // {
-    //     id: 4,
-    //     title: 'Internet Research',
-    //     icon: <FaInternetExplorer />
-    // },
-    // {
-    //     id: 5,
+    //     id: 8,
     //     title: 'Tutoring',
     //     icon: <FaChalkboardTeacher />
     // },
 
-    {
-        id: 6,
-        title: 'Web Developement',
-        icon: <BsCodeSlash />
-    },
+
     // {
-    //     id: 7,
+    //     id: 9,
     //     title: 'Photography',
     //     icon: <FaCameraRetro />
     // },
     // {
-    //     id: 8,
+    //     id: 10,
     //     title: 'Pinterest Virtual Assistant',
     //     icon: <FaPinterest />
     // }, 
     // {
-    //     id: 9,
+    //     id: 11,
     //     title: 'Video Editing',
     //     icon: <FaVideo />
     // },
+
     // {
-    //     id: 10,
-    //     title: 'Data Entry', 
-    //     icon: <BsClipboardData />
-    // },
-    // {
-    //     id: 11,
+    //     id: 12,
     //     title: 'Ebook Writing',
     //     icon: <FaTabletAlt />
     // },
-    // {
-    //     id: 12,
-    //     title: 'Audio Transcription',
-    //     icon: <AiFillAudio />
-    // },
+
     // {
     //     id: 13,
     //     title: 'Blog Posting',

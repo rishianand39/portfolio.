@@ -6,17 +6,17 @@ export const educationData = [
         startYear: ' Nov, 2021',
         endYear: ' July, 2022'
     },
-//     {
-//         id: 2,
-//         institution: 'India Gandhi National Open University, New Delhi, India',
-//         course: 'Bachelor of Computer Application',
-//         startYear: '2021',
-//         endYear: 'present'
-//     },
+    {
+        id: 2,
+        institution: 'India Gandhi National Open University, New Delhi, India',
+        course: 'Bachelor of Computer Application',
+        startYear: '2021',
+        endYear: '2024'
+    },
     {
         id: 3,
         institution: 'Paras Nath Kushwaha College, Acchua, Paliganj, Patna, Bihar(BSEB)',
-        course: '12th (science)',
+        course: '12th Standard (science)',
         startYear: '2019',
         endYear: '2021'
     },
